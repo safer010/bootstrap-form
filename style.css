@@ -1,0 +1,16 @@
+.card-registration
+{
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    background-color: burlywood;
+}
+
+.card-registration img
+{
+    margin-top: 20px ;
+    margin-bottom: 20px ;
+    margin-left: 20px;
+    border-radius: 30px;
+}
